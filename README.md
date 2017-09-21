@@ -5,3 +5,10 @@ Please email M.Steiniger@F5.com to get a lab assignment
 
 Lab manual we will work from today
 http://f5-automation-labs.readthedocs.io/en/develop/
+
+Follow up links
+
+What is Super-NetOps?
+https://www.youtube.com/watch?v=kHbmsnkiX6I
+
+f5.com/SuperNetOps
