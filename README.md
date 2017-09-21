@@ -3,6 +3,9 @@ Sept 21, 2017
 
 Please email M.Steiniger@F5.com to get a lab assignment
 
+WIFI: The Loft – Private >>>> PASSWORD: loftatearls
+
+
 Lab manual we will work from today
 http://f5-automation-labs.readthedocs.io/en/develop/
 (Source Code)
