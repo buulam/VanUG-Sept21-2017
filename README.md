@@ -7,7 +7,7 @@ Please email M.Steiniger@F5.com to get a lab assignment
 http://f5-automation-labs.readthedocs.io/en/develop/
 * (Source Code)
 https://github.com/f5devcentral/f5-automation-labs
-** See a typo? Please contribute by submitting a pull request to the source code!
+* See a typo? Please contribute by submitting a pull request to the source code!
 
 Follow up links
 
